@@ -1,1 +1,13 @@
-## 김영한 실전 자바 중급 고급 정리
+# Java 학습한 내용 정리
+
+## 기본형 vs 참조형
+https://cookie.tistory.com/4
+
+## 자바 메모리 구조와 static
+https://cookie.tistory.com/16
+
+## main(String[] args) 코드 뜯어보기
+https://cookie.tistory.com/22
+
+## JVM 메모리 구조
+https://cookie.tistory.com/34
