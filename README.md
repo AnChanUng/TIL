@@ -1,5 +1,3 @@
-# Java 학습한 내용 정리
-
 ## 기본형 vs 참조형
 https://cookie.tistory.com/4
 
