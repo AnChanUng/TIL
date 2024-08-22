@@ -15,3 +15,6 @@ https://cookie.tistory.com/116
 
 ## 예외 처리
 https://cookie.tistory.com/117
+
+## 빌더 패턴(Builder Pattern)
+https://cookie.tistory.com/122
