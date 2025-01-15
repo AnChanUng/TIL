@@ -34,7 +34,7 @@ Ready 상태의 프로세스 중에서 어떤 프로세스에게 CPU를 할당�
 - 프로세스 실행 관리: 스케줄러(Scheduler)가 결정한 다음 실행할 프로세스에 CPU를 할당합니다. 프로세스가 실행 상태로 전환될 수 있도록 필요한 준비 작업을 수행합니다.
 
 ## Dispatcher 수행단계
-- CPU 제어권 전달 -> Context Switch -> mode switch (사용자 모드로 전환하여 프로세스 실행되도록 함)
+CPU 제어권 전달 -> Context Switch -> mode switch (사용자 모드로 전환하여 프로세스 실행되도록 함)
 
 ## 운영체제 종류
 Windows, Mac OS, Linux, Unix
