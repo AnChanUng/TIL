@@ -1,6 +1,12 @@
 ## TIL
 - 공부한 내용을 정리하는 repository입니다.
 
+## server
+> 서버 관련 지식들을 모아두었습니다.
+- [tomcat](https://github.com/AnChanUng/TIL/blob/main/server/tomcat.md)
+- [web server, WAS, Aache Tomcat](https://github.com/AnChanUng/TIL/blob/main/server/web%20server%2C%20WAS%2C%20Apache%20Tomcat.md)
+- [netty](https://github.com/AnChanUng/TIL/blob/main/server/netty.md)
+
 ## Network
 - [서브넷 게이트웨이 DHCP DNS](https://github.com/AnChanUng/TIL/commit/78eb843f5a1f4ccc9812e6b57719a26d0fef9ae2)
 - [로드밸런싱](https://github.com/AnChanUng/TIL/blob/main/network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)
