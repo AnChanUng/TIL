@@ -1,6 +1,9 @@
 ## TIL
 - 공부한 내용을 정리하는 repository입니다.
 
+## Linux
+- [도서] 시스템 & 네트워크 우분투 리눅스
+
 ## server
 > 서버 관련 지식들을 모아두었습니다.
 - [tomcat](https://github.com/AnChanUng/TIL/blob/main/server/tomcat.md)
@@ -15,6 +18,10 @@
 - [운영체제](https://github.com/AnChanUng/TIL/blob/main/operating%20system/os-outline.md)
 
 ## DB
+- [도서] RealMySQL
+
+## 컴퓨터구조
+- [도서] 컴퓨터와 운영체제
 
 ## Algorithm
 - [Hash](https://github.com/AnChanUng/TIL/blob/main/algorithm/hash.md)
