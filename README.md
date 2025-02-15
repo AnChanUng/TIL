@@ -2,7 +2,7 @@
 - 공부한 내용을 정리하는 repository입니다.
 
 ## Linux
-- [도서] 시스템 & 네트워크 우분투 리눅스
+- [[도서] 시스템 & 네트워크 우분투 리눅스](https://github.com/AnChanUng/TIL/tree/main/linux)
 
 ## server
 > 서버 관련 지식들을 모아두었습니다.
