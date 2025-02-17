@@ -17,7 +17,7 @@
 
 ## OS
 - [운영체제](https://github.com/AnChanUng/TIL/blob/main/operating%20system/os-outline.md)
-
+- [도서] 혼자 공부하는 컴퓨터구조+운영체제
 ## DB
 - [도서] RealMySQL
 
