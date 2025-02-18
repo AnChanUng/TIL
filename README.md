@@ -1,9 +1,12 @@
 ## TIL
-- 공부한 내용을 정리하는 repository입니다.
+> 공부한 내용을 정리하는 repository입니다.
 
+## infra
+- docker
+  
 ## Linux
 - [[도서] 시스템 & 네트워크 우분투 리눅스](https://github.com/AnChanUng/TIL/tree/main/linux)
-- [도서] 리눅스 커널 내부 구조
+- [도서] 리눅스 커널 내부구조
 
 ## server
 > 서버 관련 지식들을 모아두었습니다.
@@ -12,6 +15,7 @@
 - [netty](https://github.com/AnChanUng/TIL/blob/main/server/netty.md)
 
 ## Network
+- [도서] 컴퓨터 네트워킹 하향식 접근
 - [서브넷 게이트웨이 DHCP DNS](https://github.com/AnChanUng/TIL/commit/78eb843f5a1f4ccc9812e6b57719a26d0fef9ae2)
 - [로드밸런싱](https://github.com/AnChanUng/TIL/blob/main/network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)
 
@@ -22,7 +26,7 @@
 - [도서] RealMySQL
 
 ## 컴퓨터구조
-- [도서] 컴퓨터와 운영체제
+- [도서] 혼자 공부하는 컴퓨터구조+운영체제
 
 ## Algorithm
 - [Hash](https://github.com/AnChanUng/TIL/blob/main/algorithm/hash.md)
