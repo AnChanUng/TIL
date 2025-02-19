@@ -2,6 +2,7 @@
 > 공부한 내용을 정리하는 repository입니다.
 
 ## infra
+- [시스템과 인프라 기초]()
 - docker
   
 ## Linux
