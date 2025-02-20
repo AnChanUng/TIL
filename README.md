@@ -22,6 +22,7 @@
 ## OS
 - [운영체제](https://github.com/AnChanUng/TIL/blob/main/operating%20system/os-outline.md)
 - [도서] 혼자 공부하는 컴퓨터구조+운영체제
+- [semaphore, mutex, mutext algorithm (Bakery, Peterson, Dekker) ](https://github.com/AnChanUng/TIL/tree/main/operating%20system)
 ## DB
 - [도서] RealMySQL
 
