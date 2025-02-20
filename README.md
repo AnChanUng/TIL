@@ -22,7 +22,8 @@
 ## OS
 - [운영체제](https://github.com/AnChanUng/TIL/blob/main/operating%20system/os-outline.md)
 - [도서] 혼자 공부하는 컴퓨터구조+운영체제
-- [semaphore, mutex, mutex algorithm (Bakery, Peterson, Dekker) ](https://github.com/AnChanUng/TIL/tree/main/operating%20system)
+- [semaphore, mutex, mutex algorithm (Bakery, Peterson, Dekker)](https://github.com/AnChanUng/TIL/tree/main/operating%20system)
+- [sync, async, bloking, non-blocking](https://github.com/AnChanUng/TIL/blob/main/operating%20system/sync%2C%20async%2C%20bloking%2C%20non-blocking.md)
 ## DB
 - [도서] RealMySQL
 
