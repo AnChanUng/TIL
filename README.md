@@ -9,6 +9,7 @@
 - [[도서] 시스템 & 네트워크 우분투 리눅스](https://github.com/AnChanUng/TIL/tree/main/linux)
 - [도서] 이것이 우분투 리눅스다
 - [도서] 리눅스 커널 내부구조
+- [VSCode에서 gdbserver로 리눅스 원격 디버깅](https://github.com/AnChanUng/TIL/blob/main/linux/VSCode%EC%97%90%EC%84%9C%20%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%9B%90%EA%B2%A9%20GDB%20%EB%94%94%EB%B2%84%EA%B9%85%20%EA%B3%BC%EC%A0%95.md)
 
 ## server
 > 서버 관련 지식들을 모아두었습니다.
