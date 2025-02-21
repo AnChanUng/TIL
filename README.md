@@ -16,6 +16,12 @@
 - [tomcat](https://github.com/AnChanUng/TIL/blob/main/server/tomcat.md)
 - [web server, WAS, Aache Tomcat](https://github.com/AnChanUng/TIL/blob/main/server/web%20server%2C%20WAS%2C%20Apache%20Tomcat.md)
 - [netty](https://github.com/AnChanUng/TIL/blob/main/server/netty.md)
+- [서버 구축 방식과 가상화](https://good-abacus-b37.notion.site/1a1c64f68203812eba5ced88b5932005?pvs=4)
+- 
+
+## AWS
+- [EC2](https://good-abacus-b37.notion.site/EC2-1a1c64f6820381308bd1ce727216dab9?pvs=4)
+- [AWS VPC](https://good-abacus-b37.notion.site/EC2-1a1c64f6820381308bd1ce727216dab9?pvs=4)
 
 ## Network
 - [도서] 컴퓨터 네트워킹 하향식 접근
@@ -32,7 +38,7 @@
 - [도서] RealMySQL
 
 ## 컴퓨터구조
-- [도서] 혼자 공부하는 컴퓨터구조+운영체제
+- 
 
 ## Algorithm
 - [Hash](https://github.com/AnChanUng/TIL/blob/main/algorithm/hash.md)
