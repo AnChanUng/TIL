@@ -19,6 +19,7 @@
 
 ## Network
 - [도서] 컴퓨터 네트워킹 하향식 접근
+- [OSI 7계층](https://good-abacus-b37.notion.site/OSI-7-190c64f6820380d79b20cefda1ab0527?pvs=4)
 - [로드밸런싱](https://github.com/AnChanUng/TIL/blob/main/network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)
 
 ## OS
