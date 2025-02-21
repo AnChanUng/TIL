@@ -14,7 +14,7 @@
 ## server
 > 서버 관련 지식들을 모아두었습니다.
 - [tomcat](https://github.com/AnChanUng/TIL/blob/main/server/tomcat.md)
-- [web server, WAS, Aache Tomcat](https://github.com/AnChanUng/TIL/blob/main/server/web%20server%2C%20WAS%2C%20Apache%20Tomcat.md)
+- [web server, WAS, Apache Tomcat](https://github.com/AnChanUng/TIL/blob/main/server/web%20server%2C%20WAS%2C%20Apache%20Tomcat.md)
 - [netty](https://github.com/AnChanUng/TIL/blob/main/server/netty.md)
 - [서버 구축 방식과 가상화](https://good-abacus-b37.notion.site/1a1c64f68203812eba5ced88b5932005?pvs=4)
 - 
