@@ -22,8 +22,9 @@
 - [로드밸런싱](https://github.com/AnChanUng/TIL/blob/main/network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)
 
 ## OS
-- [운영체제](https://github.com/AnChanUng/TIL/blob/main/operating%20system/os-outline.md)
+- [operating system](https://github.com/AnChanUng/TIL/blob/main/operating%20system/os-outline.md)
 - [도서] 혼자 공부하는 컴퓨터구조+운영체제
+- [process, thread](https://good-abacus-b37.notion.site/190c64f6820380de9fe3f8f73e541c2a?pvs=4)
 - [semaphore, mutex, mutex algorithm (Bakery, Peterson, Dekker)](https://github.com/AnChanUng/TIL/blob/main/operating%20system/semaphore%2C%20mutex.md)
 - [sync, async, bloking, non-blocking](https://github.com/AnChanUng/TIL/blob/main/operating%20system/sync%2C%20async%2C%20bloking%2C%20non-blocking.md)
 ## DB
