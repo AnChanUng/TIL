@@ -7,6 +7,7 @@
   
 ## Linux
 - [[도서] 시스템 & 네트워크 우분투 리눅스](https://github.com/AnChanUng/TIL/tree/main/linux)
+- [도서] 이것이 우분투 리눅스다
 - [도서] 리눅스 커널 내부구조
 
 ## server
