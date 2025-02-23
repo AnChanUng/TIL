@@ -16,8 +16,8 @@
 - [tomcat](https://github.com/AnChanUng/TIL/blob/main/server/tomcat.md)
 - [web server, WAS, Apache Tomcat](https://github.com/AnChanUng/TIL/blob/main/server/web%20server%2C%20WAS%2C%20Apache%20Tomcat.md)
 - [netty](https://github.com/AnChanUng/TIL/blob/main/server/netty.md)
+- [Nginx](https://good-abacus-b37.notion.site/Nginx-1a1c64f6820381abaa04d97d2247b9d8?pvs=4)
 - [서버 구축 방식과 가상화](https://good-abacus-b37.notion.site/1a1c64f68203812eba5ced88b5932005?pvs=4)
-- 
 
 ## AWS
 - [EC2](https://good-abacus-b37.notion.site/EC2-1a1c64f6820381308bd1ce727216dab9?pvs=4)
@@ -34,6 +34,7 @@
 - [process, thread](https://good-abacus-b37.notion.site/190c64f6820380de9fe3f8f73e541c2a?pvs=4)
 - [semaphore, mutex, mutex algorithm (Bakery, Peterson, Dekker)](https://github.com/AnChanUng/TIL/blob/main/operating%20system/semaphore%2C%20mutex.md)
 - [sync, async, bloking, non-blocking](https://github.com/AnChanUng/TIL/blob/main/operating%20system/sync%2C%20async%2C%20bloking%2C%20non-blocking.md)
+
 ## DB
 - [도서] RealMySQL
 - [JDBC, Hikari CP 동작 방식](https://good-abacus-b37.notion.site/JDBC-1a1c64f6820381899784f651e487d05d?pvs=4)
@@ -42,7 +43,7 @@
 - [index](https://good-abacus-b37.notion.site/index-1a1c64f68203817a9f3cfbc0f467296e?pvs=4)
   
 ## 컴퓨터구조
-- 
+- [컴퓨터구조](https://good-abacus-b37.notion.site/195c64f68203809bafe8eb1cde054cfe?pvs=4)
 
 ## Algorithm
 - [Hash](https://github.com/AnChanUng/TIL/blob/main/algorithm/hash.md)
