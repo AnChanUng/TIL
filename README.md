@@ -29,8 +29,8 @@
 - [로드밸런싱](https://github.com/AnChanUng/TIL/blob/main/network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)
 
 ## OS
-- [operating system](https://github.com/AnChanUng/TIL/blob/main/operating%20system/os-outline.md)
 - [도서] 혼자 공부하는 컴퓨터구조+운영체제
+- [operating system](https://github.com/AnChanUng/TIL/blob/main/operating%20system/os-outline.md)
 - [process, thread](https://good-abacus-b37.notion.site/190c64f6820380de9fe3f8f73e541c2a?pvs=4)
 - [프로세스 시스템 콜(fork, exec, wait, waitpid) dup2](https://good-abacus-b37.notion.site/kernel-shell-system-call-fork-exec-wait-waitpid-pthread-dup2-198c64f68203809ab53cedc1151c4e91?pvs=4)
 - [pthread](https://good-abacus-b37.notion.site/pthread-1a5c64f68203801793cfeac6300a299c?pvs=4)
