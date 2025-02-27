@@ -32,7 +32,7 @@
 - [도서] 혼자 공부하는 컴퓨터구조+운영체제
 - [operating system](https://github.com/AnChanUng/TIL/blob/main/operating%20system/os-outline.md)
 - [process, thread](https://good-abacus-b37.notion.site/190c64f6820380de9fe3f8f73e541c2a?pvs=4)
-- [프로세스 시스템 콜(fork, exec, wait, waitpid) dup2](https://good-abacus-b37.notion.site/kernel-shell-system-call-fork-exec-wait-waitpid-pthread-dup2-198c64f68203809ab53cedc1151c4e91?pvs=4)
+- [fork, exec, wait, waitpid, dup2](https://good-abacus-b37.notion.site/kernel-shell-system-call-fork-exec-wait-waitpid-pthread-dup2-198c64f68203809ab53cedc1151c4e91?pvs=4)
 - [pthread](https://good-abacus-b37.notion.site/pthread-1a5c64f68203801793cfeac6300a299c?pvs=4)
 - [semaphore, mutex, mutex algorithm (Bakery, Peterson, Dekker)](https://github.com/AnChanUng/TIL/blob/main/operating%20system/semaphore%2C%20mutex.md)
 - [sync, async, blocking, non-blocking](https://github.com/AnChanUng/TIL/blob/main/operating%20system/sync%2C%20async%2C%20bloking%2C%20non-blocking.md)
