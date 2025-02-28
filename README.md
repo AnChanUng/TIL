@@ -40,6 +40,8 @@
 - [표준 입력, 표준 출력, 표준 에러 출력 / stdin stdout stderr](https://good-abacus-b37.notion.site/1a4c64f68203804c8a0aea8fe76a6da5?pvs=4)
 - [정적 라이브러리 동적 라이브러리](https://good-abacus-b37.notion.site/C-198c64f68203804cb706ea6e112170c8?pvs=4)
 - [동적 적재 라이브러리 DL (dlopen, dlsym, dlcose, dlerror)](https://good-abacus-b37.notion.site/dlopen-dlsym-dlclose-dlerror-1a5c64f68203801580f4f4bb3ebb0c30?pvs=4)
+
+> 실습
 - [shell 직접 구현하기](https://good-abacus-b37.notion.site/shell-1a7c64f6820380b197b4c8b66b85d4d5?pvs=4)
 
 ## DB
