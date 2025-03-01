@@ -42,7 +42,7 @@
 - [동적 적재 라이브러리 DL (dlopen, dlsym, dlcose, dlerror)](https://good-abacus-b37.notion.site/dlopen-dlsym-dlclose-dlerror-1a5c64f68203801580f4f4bb3ebb0c30?pvs=4)
 
 > 실습
-- [shell 직접 구현하기](https://good-abacus-b37.notion.site/shell-1a7c64f6820380b197b4c8b66b85d4d5?pvs=4)
+- [밑바닥부터 shell 구현하기](https://good-abacus-b37.notion.site/shell-1a7c64f6820380b197b4c8b66b85d4d5?pvs=4)
 
 ## DB
 - [도서] RealMySQL
