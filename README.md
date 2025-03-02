@@ -9,6 +9,7 @@
 - [[도서] 시스템 & 네트워크 우분투 리눅스](https://github.com/AnChanUng/TIL/tree/main/linux)
 - [도서] 이것이 우분투 리눅스다
 - [도서] 리눅스 커널 내부구조
+- [[인프런] 리눅스 시스템 프로그래밍 - 이론과 실습](https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9D%B4%EB%A1%A0%EA%B3%BC-%EC%8B%A4%EC%8A%B5)
 - [VSCode에서 gdbserver로 리눅스 원격 디버깅](https://github.com/AnChanUng/TIL/blob/main/linux/VSCode%EC%97%90%EC%84%9C%20%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%9B%90%EA%B2%A9%20GDB%20%EB%94%94%EB%B2%84%EA%B9%85%20%EA%B3%BC%EC%A0%95.md)
 
 ## server
