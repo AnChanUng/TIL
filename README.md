@@ -61,3 +61,6 @@
 - [Hash](https://github.com/AnChanUng/TIL/blob/main/algorithm/hash.md)
 - [Memoization](https://github.com/AnChanUng/TIL/blob/main/algorithm/memoization.md)
 - [정렬 알고리즘의 종류](https://github.com/AnChanUng/TIL/tree/main/algorithm)
+
+## Test
+- [단위 테스트, 통합 테스트](https://good-abacus-b37.notion.site/TEST-1a1c64f68203816581ffcbbdd552b541?pvs=4)
