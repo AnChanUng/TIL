@@ -43,6 +43,7 @@
 - [정적 라이브러리 동적 라이브러리](https://good-abacus-b37.notion.site/C-198c64f68203804cb706ea6e112170c8?pvs=4)
 - [동적 적재 라이브러리 DL (dlopen, dlsym, dlcose, dlerror)](https://good-abacus-b37.notion.site/dlopen-dlsym-dlclose-dlerror-1a5c64f68203801580f4f4bb3ebb0c30?pvs=4)
 - [socket, pipe](https://good-abacus-b37.notion.site/socket-pipe-1acc64f6820380878695dfd820284e2a?pvs=4)
+- [shared memory](https://good-abacus-b37.notion.site/shared-Memory-1afc64f682038021aa25ea54f821cddc?pvs=4)
 
 > 실습
 - [밑바닥부터 shell 구현하기](https://good-abacus-b37.notion.site/shell-1a7c64f6820380b197b4c8b66b85d4d5?pvs=4)
