@@ -48,7 +48,7 @@
 
 > 실습
 - [밑바닥부터 shell 구현하기](https://good-abacus-b37.notion.site/shell-1a7c64f6820380b197b4c8b66b85d4d5?pvs=4)
-- [실시간 채팅 프로그램 with C, MySQL]
+- [실시간 채팅 프로그램]
 ## DB
 - [도서] RealMySQL
 - [JDBC, Hikari CP 동작 방식](https://good-abacus-b37.notion.site/JDBC-1a1c64f6820381899784f651e487d05d?pvs=4)
