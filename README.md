@@ -2,6 +2,9 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AnChanUng&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 > 공부한 내용을 정리하는 repository입니다.
 
+## Data
+- [ETL](https://good-abacus-b37.notion.site/ETL-1b6c64f6820380a5b539c1f8f27e641c?pvs=4)
+
 ## infra
 - [시스템과 인프라 기초](https://github.com/AnChanUng/TIL/blob/main/infra/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EA%B8%B0%EC%B4%88.md)
 - [docker](https://cookie.tistory.com/135)
