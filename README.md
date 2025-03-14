@@ -5,7 +5,7 @@
 ## Data
 - [ETL](https://good-abacus-b37.notion.site/ETL-1b6c64f6820380a5b539c1f8f27e641c?pvs=4)
 
-## infra
+## Infra
 - [시스템과 인프라 기초](https://github.com/AnChanUng/TIL/blob/main/infra/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EA%B8%B0%EC%B4%88.md)
 - [docker](https://cookie.tistory.com/135)
   
@@ -17,7 +17,7 @@
 - [VSCode에서 gdbserver로 리눅스 원격 디버깅](https://github.com/AnChanUng/TIL/blob/main/linux/VSCode%EC%97%90%EC%84%9C%20%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%9B%90%EA%B2%A9%20GDB%20%EB%94%94%EB%B2%84%EA%B9%85%20%EA%B3%BC%EC%A0%95.md)
 - [하드링크와 소프트링크](https://good-abacus-b37.notion.site/1abc64f6820380da8412fd7109366f8c?pvs=4)
 
-## server
+## Server
 > 서버 관련 지식들을 모아두었습니다.
 - [tomcat](https://github.com/AnChanUng/TIL/blob/main/server/tomcat.md)
 - [web server, WAS, Apache Tomcat](https://github.com/AnChanUng/TIL/blob/main/server/web%20server%2C%20WAS%2C%20Apache%20Tomcat.md)
@@ -61,7 +61,7 @@
 - [Transaction](https://good-abacus-b37.notion.site/transaction-1a1c64f682038191b191f0d6c72ad533?pvs=4)
 - [index](https://good-abacus-b37.notion.site/index-1a1c64f68203817a9f3cfbc0f467296e?pvs=4)
   
-## 컴퓨터구조
+## Computer Architecture
 - [컴퓨터구조](https://good-abacus-b37.notion.site/195c64f68203809bafe8eb1cde054cfe?pvs=4)
 
 ## Algorithm
