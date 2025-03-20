@@ -36,7 +36,7 @@
 - [로드밸런싱](https://github.com/AnChanUng/TIL/blob/main/network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)
 
 ## OS
-- [도서] 밑바닥 부터 만드는 컴퓨팅 시스템
+- [도서] 밑바닥부터 만드는 컴퓨팅 시스템
 - [도서] 혼자 공부하는 컴퓨터구조+운영체제
 - [operating system](https://github.com/AnChanUng/TIL/blob/main/operating%20system/os-outline.md)
 - [process, thread](https://good-abacus-b37.notion.site/190c64f6820380de9fe3f8f73e541c2a?pvs=4)
