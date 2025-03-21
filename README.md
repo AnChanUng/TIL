@@ -45,7 +45,7 @@
 - [dup, dup2](https://good-abacus-b37.notion.site/dup-dup2-1a7c64f6820380f19e7bffa1d1d5f005?pvs=4)
 - [semaphore, mutex, mutex algorithm (Bakery, Peterson, Dekker)](https://github.com/AnChanUng/TIL/blob/main/operating%20system/semaphore%2C%20mutex.md)
 - [sync, async, blocking, non-blocking](https://github.com/AnChanUng/TIL/blob/main/operating%20system/sync%2C%20async%2C%20bloking%2C%20non-blocking.md)
-- [표준 입력, 표준 출력, 표준 에러 출력 / stdin stdout stderr](https://good-abacus-b37.notion.site/1a4c64f68203804c8a0aea8fe76a6da5?pvs=4)
+- [stdin stdout stderr](https://good-abacus-b37.notion.site/1a4c64f68203804c8a0aea8fe76a6da5?pvs=4)
 - [정적 라이브러리 동적 라이브러리](https://good-abacus-b37.notion.site/C-198c64f68203804cb706ea6e112170c8?pvs=4)
 - [동적 적재 라이브러리 DL (dlopen, dlsym, dlcose, dlerror)](https://good-abacus-b37.notion.site/dlopen-dlsym-dlclose-dlerror-1a5c64f68203801580f4f4bb3ebb0c30?pvs=4)
 - [socket, pipe](https://good-abacus-b37.notion.site/socket-pipe-1acc64f6820380878695dfd820284e2a?pvs=4)
