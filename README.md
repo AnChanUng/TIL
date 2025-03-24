@@ -1,4 +1,4 @@
-## TIL
+![image](https://github.com/user-attachments/assets/75fc9144-d8b6-4039-8927-fffa2ec32516)## TIL
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AnChanUng&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 > 공부한 내용을 정리하는 repository입니다.
 
@@ -34,6 +34,7 @@
 ## Network
 - [도서] 컴퓨터 네트워킹 하향식 접근
 - [OSI 7계층](https://good-abacus-b37.notion.site/OSI-7-190c64f6820380d79b20cefda1ab0527?pvs=4)
+- [패킷(packet)](https://good-abacus-b37.notion.site/packet-1c0c64f682038018b774c0bc0a49446c?pvs=4)
 - [로드밸런싱](https://github.com/AnChanUng/TIL/blob/main/network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)
 
 ## OS
