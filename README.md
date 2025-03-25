@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/75fc9144-d8b6-4039-8927-fffa2ec32516)## TIL
+## TIL
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AnChanUng&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 > 공부한 내용을 정리하는 repository입니다.
 
