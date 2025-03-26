@@ -61,6 +61,7 @@
 
 ## DB
 - [도서] RealMySQL
+- [ODBC](https://github.com/AnChanUng/TIL/blob/main/database/ODBC.md)
 - [JDBC, Hikari CP 동작 방식](https://good-abacus-b37.notion.site/JDBC-1a1c64f6820381899784f651e487d05d?pvs=4)
 - [Connection Pool](https://good-abacus-b37.notion.site/Connetion-Pool-1a1c64f682038166b904f5d141d0b4a5?pvs=4)
 - [Transaction](https://good-abacus-b37.notion.site/transaction-1a1c64f682038191b191f0d6c72ad533?pvs=4)
