@@ -70,6 +70,9 @@
 - [Transaction](https://good-abacus-b37.notion.site/transaction-1a1c64f682038191b191f0d6c72ad533?pvs=4)
 - [index](https://good-abacus-b37.notion.site/index-1a1c64f68203817a9f3cfbc0f467296e?pvs=4)
 
+> 칼럼
+- [PostgreSQL의 VARCHAR에서 실제 바이트 수](https://cookie.tistory.com/138)
+
 ## Algorithm
 - [Hash](https://github.com/AnChanUng/TIL/blob/main/algorithm/hash.md)
 - [Memoization](https://github.com/AnChanUng/TIL/blob/main/algorithm/memoization.md)
