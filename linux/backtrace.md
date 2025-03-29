@@ -4,3 +4,5 @@
 이를 통해 개발자는 프로그램이 어떤 경로를 거쳐 에러에 도달했는지 파악하여 디버깅을 보다 효율적으로 수행
 
 C 언어에서는 이러한 백트레이스를 직접 지원하지 않지만, Linux 환경에서는 execinfo.h 헤더에 정의된 backtrace 및 backtrace_symbols 함수를 활용하여 호출 스택 정보를 추출할 수 있습니다. 
+
+https://man7.org/linux/man-pages/man3/backtrace.3.html
