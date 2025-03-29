@@ -18,6 +18,7 @@
 - [VSCode에서 gdbserver로 리눅스 원격 디버깅](https://github.com/AnChanUng/TIL/blob/main/linux/VSCode%EC%97%90%EC%84%9C%20%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%9B%90%EA%B2%A9%20GDB%20%EB%94%94%EB%B2%84%EA%B9%85%20%EA%B3%BC%EC%A0%95.md)
 - [하드링크와 소프트링크](https://good-abacus-b37.notion.site/1abc64f6820380da8412fd7109366f8c?pvs=4)
 - [signal](https://good-abacus-b37.notion.site/1bfc64f6820380d684aad244787cdb45?pvs=4)
+- [backtrace](https://github.com/AnChanUng/TIL/blob/main/linux/backtrace.md)
 
 ## Server
 > 서버 관련 지식들을 모아두었습니다.
