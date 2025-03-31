@@ -5,6 +5,7 @@
 ## Data
 - [ETL](https://good-abacus-b37.notion.site/ETL-1b6c64f6820380a5b539c1f8f27e641c?pvs=4)
 - [oozie](https://good-abacus-b37.notion.site/oozie-19dc64f68203803e9b9ce87db5fa2850?pvs=4)
+- [Kafka](https://good-abacus-b37.notion.site/Kafka-1a1c64f68203814492a2f2e966f5d774?pvs=4)
 
 ## Infra
 - [시스템과 인프라 기초](https://github.com/AnChanUng/TIL/blob/main/infra/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EA%B8%B0%EC%B4%88.md)
