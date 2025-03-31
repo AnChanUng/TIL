@@ -20,7 +20,7 @@
 - [하드링크와 소프트링크](https://good-abacus-b37.notion.site/1abc64f6820380da8412fd7109366f8c?pvs=4)
 - [signal](https://good-abacus-b37.notion.site/1bfc64f6820380d684aad244787cdb45?pvs=4)
 - [backtrace](https://github.com/AnChanUng/TIL/blob/main/linux/backtrace.md)
-- [core dump 파일 분석방법](https://github.com/AnChanUng/TIL/blob/main/linux/%EC%BD%94%EC%96%B4%EB%8D%A4%ED%94%84%20%EB%B6%84%EC%84%9D%EB%B0%A9%EB%B2%95.md)
+- [core dump 파일 분석방법 / Valgrind 메모리 누수 위치 찾기](https://github.com/AnChanUng/TIL/blob/main/linux/%EC%BD%94%EC%96%B4%EB%8D%A4%ED%94%84%20%EB%B6%84%EC%84%9D%EB%B0%A9%EB%B2%95.md)
 
 ## Server
 > 서버 관련 지식들을 모아두었습니다.
