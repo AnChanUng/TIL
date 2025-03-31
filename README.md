@@ -20,6 +20,7 @@
 - [하드링크와 소프트링크](https://good-abacus-b37.notion.site/1abc64f6820380da8412fd7109366f8c?pvs=4)
 - [signal](https://good-abacus-b37.notion.site/1bfc64f6820380d684aad244787cdb45?pvs=4)
 - [backtrace](https://github.com/AnChanUng/TIL/blob/main/linux/backtrace.md)
+- [코어덤프 파일 분석 방법](linux/coredump.md)
 
 ## Server
 > 서버 관련 지식들을 모아두었습니다.
