@@ -63,7 +63,6 @@
 
 > 실습
 - [밑바닥부터 shell 구현하기](https://good-abacus-b37.notion.site/shell-1a7c64f6820380b197b4c8b66b85d4d5?pvs=4)
-- [실시간 채팅 프로그램]
 
 ## DB
 - [도서] RealMySQL
