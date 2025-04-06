@@ -46,6 +46,7 @@
 ## OS
 - [도서] 밑바닥부터 만드는 컴퓨팅 시스템
 - [도서] 혼자 공부하는 컴퓨터구조+운영체제
+- [OSTEP](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean)
 - [operating system](https://github.com/AnChanUng/TIL/blob/main/operating%20system/os-outline.md)
 - [process, thread](https://good-abacus-b37.notion.site/190c64f6820380de9fe3f8f73e541c2a?pvs=4)
 - [pthread](https://good-abacus-b37.notion.site/pthread-1a5c64f68203801793cfeac6300a299c?pvs=4)
