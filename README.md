@@ -32,7 +32,6 @@
 - [AWS VPC](https://good-abacus-b37.notion.site/EC2-1a1c64f6820381308bd1ce727216dab9?pvs=4)
 
 ## Network
-- [도서] 컴퓨터 네트워킹 하향식 접근
 - [OSI 7계층](https://good-abacus-b37.notion.site/OSI-7-190c64f6820380d79b20cefda1ab0527?pvs=4)
 - [패킷(packet)](https://good-abacus-b37.notion.site/packet-1c0c64f682038018b774c0bc0a49446c?pvs=4)
 - [로드밸런싱](https://github.com/AnChanUng/TIL/blob/main/network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)
@@ -61,7 +60,6 @@
 - [밑바닥부터 shell 구현하기](https://good-abacus-b37.notion.site/shell-1a7c64f6820380b197b4c8b66b85d4d5?pvs=4)
 
 ## DB
-- [도서] RealMySQL
 - [ODBC](https://github.com/AnChanUng/TIL/blob/main/database/ODBC.md)
 - [JDBC, Hikari CP 동작 방식](https://good-abacus-b37.notion.site/JDBC-1a1c64f6820381899784f651e487d05d?pvs=4)
 - [Connection Pool](https://good-abacus-b37.notion.site/Connetion-Pool-1a1c64f682038166b904f5d141d0b4a5?pvs=4)
