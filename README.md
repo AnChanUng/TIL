@@ -55,7 +55,7 @@
 - [shared memory](https://good-abacus-b37.notion.site/shared-Memory-1afc64f682038021aa25ea54f821cddc?pvs=4)
 - [구조체, 공용체](https://github.com/AnChanUng/TIL/blob/main/operating%20system/%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%EA%B3%B5%EC%9A%A9%EC%B2%B4.md)
 - [UTF-8 vs EUC-KR](https://good-abacus-b37.notion.site/UTF-8-vs-EUC-KR-1b3c64f6820380b8add5f25546fa7326?pvs=4)
-- [FileSystem, inode]()
+- [FileSystem, inode](https://github.com/AnChanUng/TIL/blob/main/operating%20system/inode.md)
 
 > 실습
 - [밑바닥부터 shell 구현하기](https://good-abacus-b37.notion.site/shell-1a7c64f6820380b197b4c8b66b85d4d5?pvs=4)
