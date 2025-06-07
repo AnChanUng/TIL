@@ -9,6 +9,9 @@
 ## Infra
 - [시스템과 인프라 기초](https://github.com/AnChanUng/TIL/blob/main/infra/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EA%B8%B0%EC%B4%88.md)
 - [docker](https://cookie.tistory.com/135)
+> kubernetes
+- [window에서 Kubernetes 설치](https://cookie.tistory.com/141)
+- [Nginx로 pod 띄우기](https://cookie.tistory.com/142)
   
 ## Linux
 - [Linux/OS 관련 도서 모음](https://github.com/AnChanUng/TIL/blob/main/linux/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EB%8F%84%EC%84%9C%20%EB%AA%A8%EC%9D%8C.md)
