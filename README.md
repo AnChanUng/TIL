@@ -6,13 +6,6 @@
 - [oozie](https://good-abacus-b37.notion.site/oozie-19dc64f68203803e9b9ce87db5fa2850?pvs=4)
 - [Kafka](https://good-abacus-b37.notion.site/Kafka-1a1c64f68203814492a2f2e966f5d774?pvs=4)
 
-## Infra
-- [시스템과 인프라 기초](https://github.com/AnChanUng/TIL/blob/main/infra/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EA%B8%B0%EC%B4%88.md)
-- [docker](https://cookie.tistory.com/135)
-> kubernetes
-- [window에서 Kubernetes 설치](https://cookie.tistory.com/141)
-- [Nginx로 pod 띄우기](https://cookie.tistory.com/142)
-  
 ## Linux
 - [Linux/OS 관련 도서 모음](https://github.com/AnChanUng/TIL/blob/main/linux/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EB%8F%84%EC%84%9C%20%EB%AA%A8%EC%9D%8C.md)
 - [VSCode에서 gdbserver로 리눅스 원격 디버깅](https://github.com/AnChanUng/TIL/blob/main/linux/VSCode%EC%97%90%EC%84%9C%20%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%9B%90%EA%B2%A9%20GDB%20%EB%94%94%EB%B2%84%EA%B9%85%20%EA%B3%BC%EC%A0%95.md)
@@ -20,6 +13,14 @@
 - [signal](https://good-abacus-b37.notion.site/1bfc64f6820380d684aad244787cdb45?pvs=4)
 - [backtrace](https://github.com/AnChanUng/TIL/blob/main/linux/backtrace.md)
 - [core dump 파일 분석방법 / Valgrind 메모리 누수 위치 찾기](https://github.com/AnChanUng/TIL/blob/main/linux/%EC%BD%94%EC%96%B4%EB%8D%A4%ED%94%84%20%EB%B6%84%EC%84%9D%EB%B0%A9%EB%B2%95.md)
+
+## Infra
+- [시스템과 인프라 기초](https://github.com/AnChanUng/TIL/blob/main/infra/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EA%B8%B0%EC%B4%88.md)
+- [docker](https://cookie.tistory.com/135)
+
+## Kubernetes
+- [window에서 Kubernetes 설치](https://cookie.tistory.com/141)
+- [Nginx로 pod 띄우기](https://cookie.tistory.com/142)
 
 ## Server
 > 서버 관련 지식들을 모아두었습니다.
