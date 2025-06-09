@@ -22,6 +22,8 @@
 - [k8s 명령어 & 디버깅 방법](https://github.com/AnChanUng/TIL/blob/main/k8s/pod%20%EB%94%94%EB%B2%84%EA%B9%85%20%EB%B0%A9%EB%B2%95%20%26%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md)
 - [window에서 Kubernetes 설치](https://cookie.tistory.com/141)
 - [Nginx로 pod 띄우기](https://cookie.tistory.com/142)
+- [SpringBoot 서버를 pod로 띄우기](https://cookie.tistory.com/143)
+- [Next.js를 pod로 띄우기](https://cookie.tistory.com/144)
 
 ## Server
 > 서버 관련 지식들을 모아두었습니다.
