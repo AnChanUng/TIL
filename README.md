@@ -16,7 +16,7 @@
 
 ## Infra
 - [시스템과 인프라 기초](https://github.com/AnChanUng/TIL/blob/main/infra/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EA%B8%B0%EC%B4%88.md)
-- [docker](https://cookie.tistory.com/135)
+- [Docker로 MySQL, PostgreSQL, MongoDB 실행 및 명령어 정리](https://cookie.tistory.com/135)
 
 ## Kubernetes
 - [k8s 명령어 & 디버깅 방법](https://github.com/AnChanUng/TIL/blob/main/k8s/pod%20%EB%94%94%EB%B2%84%EA%B9%85%20%EB%B0%A9%EB%B2%95%20%26%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md)
