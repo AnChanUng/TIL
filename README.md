@@ -32,7 +32,6 @@
 - [netty](https://github.com/AnChanUng/TIL/blob/main/server/netty.md)
 - [Nginx](https://good-abacus-b37.notion.site/Nginx-1a1c64f6820381abaa04d97d2247b9d8?pvs=4)
 - [서버 구축 방식과 가상화](https://good-abacus-b37.notion.site/1a1c64f68203812eba5ced88b5932005?pvs=4)
-- [리눅스환경에서 PostgreSQL 설치 및 서버실행](https://cookie.tistory.com/139)
 
 ## AWS
 - [EC2](https://good-abacus-b37.notion.site/EC2-1a1c64f6820381308bd1ce727216dab9?pvs=4)
@@ -77,6 +76,8 @@
 > MySQL/Oracle 외 DB
 - [PostgreSQL의 VARCHAR에서 실제 바이트 수](https://cookie.tistory.com/138)
 - [CUBRID](https://github.com/AnChanUng/TIL/blob/main/database/CUBRID.md)
+- [PostgreSQL 설치 방법](https://cookie.tistory.com/139)
+- [Tibero DB 설치 방법](https://cookie.tistory.com/146)
 
 ## Algorithm
 - [Hash](https://github.com/AnChanUng/TIL/blob/main/algorithm/hash.md)
