@@ -4,7 +4,7 @@
 ## Data
 - [ETL](https://good-abacus-b37.notion.site/ETL-1b6c64f6820380a5b539c1f8f27e641c?pvs=4)
 - [oozie](https://good-abacus-b37.notion.site/oozie-19dc64f68203803e9b9ce87db5fa2850?pvs=4)
-- [Kafka](https://good-abacus-b37.notion.site/Kafka-1a1c64f68203814492a2f2e966f5d774?pvs=4)
+- [Kafka](https://github.com/AnChanUng/TIL/blob/main/message%20queue/kafka%EC%9D%98%20%EA%B8%B0%EB%B3%B8%20%EA%B5%AC%EC%84%B1.md)
 
 ## Linux
 - [Linux/OS 관련 도서 모음](https://github.com/AnChanUng/TIL/blob/main/linux/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EB%8F%84%EC%84%9C%20%EB%AA%A8%EC%9D%8C.md)
