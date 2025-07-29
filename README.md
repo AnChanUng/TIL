@@ -26,6 +26,7 @@
 
 ## Kafka
 - [Kafka](https://github.com/AnChanUng/TIL/blob/main/message%20queue/kafka%EC%9D%98%20%EA%B8%B0%EB%B3%B8%20%EA%B5%AC%EC%84%B1.md)
+- [AWS EC2로 Kafka 설치 방법](https://github.com/AnChanUng/TIL/blob/main/message%20queue/kafka/AWS%20EC2%EC%97%90%20kafka%20%EC%84%A4%EC%B9%98.md)
 - [SpringBoot에서 kafka를 활용한 SMTP 메일 전송](https://cookie.tistory.com/154)
 
 ## Server
