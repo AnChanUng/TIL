@@ -38,8 +38,7 @@
 - [서버 구축 방식과 가상화](https://good-abacus-b37.notion.site/1a1c64f68203812eba5ced88b5932005?pvs=4)
 
 ## AWS
-- [EC2](https://good-abacus-b37.notion.site/EC2-1a1c64f6820381308bd1ce727216dab9?pvs=4)
-- [AWS VPC](https://good-abacus-b37.notion.site/EC2-1a1c64f6820381308bd1ce727216dab9?pvs=4)
+- [EC2](https://github.com/AnChanUng/TIL/blob/main/aws/EC2.md)
 
 ## Network
 - [OSI 7계층](https://good-abacus-b37.notion.site/OSI-7-190c64f6820380d79b20cefda1ab0527?pvs=4)
