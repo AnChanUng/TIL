@@ -77,10 +77,11 @@
 - [index](https://good-abacus-b37.notion.site/index-1a1c64f68203817a9f3cfbc0f467296e?pvs=4)
 
 > RDBMS
-- [PostgreSQL의 VARCHAR에서 실제 바이트 수](https://cookie.tistory.com/138)
+- [MariaDB 설치](https://cookie.tistory.com/131)
 - [CUBRID](https://github.com/AnChanUng/TIL/blob/main/database/CUBRID.md)
-- [PostgreSQL 설치 방법](https://cookie.tistory.com/139)
-- [Tibero DB 설치 방법](https://cookie.tistory.com/146)
+- [PostgreSQL 설치](https://cookie.tistory.com/139)
+- [Tibero 설치](https://cookie.tistory.com/146)
+- [PostgreSQL의 VARCHAR에서 실제 바이트 수](https://cookie.tistory.com/138)
 
 > NoSQL
 - [NoSQL](https://cookie.tistory.com/151)
