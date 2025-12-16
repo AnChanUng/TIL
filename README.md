@@ -1,10 +1,6 @@
 ## TIL
 > 공부한 내용을 정리하는 repository입니다.
 
-## Data
-- [ETL](https://good-abacus-b37.notion.site/ETL-1b6c64f6820380a5b539c1f8f27e641c?pvs=4)
-- [oozie](https://good-abacus-b37.notion.site/oozie-19dc64f68203803e9b9ce87db5fa2850?pvs=4)
-
 ## Linux
 - [Linux/OS 관련 도서 모음](https://github.com/AnChanUng/TIL/blob/main/linux/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EB%8F%84%EC%84%9C%20%EB%AA%A8%EC%9D%8C.md)
 - [VSCode에서 gdbserver로 리눅스 원격 디버깅](https://github.com/AnChanUng/TIL/blob/main/linux/VSCode%EC%97%90%EC%84%9C%20%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%9B%90%EA%B2%A9%20GDB%20%EB%94%94%EB%B2%84%EA%B9%85%20%EA%B3%BC%EC%A0%95.md)
