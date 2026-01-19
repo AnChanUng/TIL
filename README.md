@@ -9,10 +9,6 @@
 - [backtrace](https://github.com/AnChanUng/TIL/blob/main/linux/backtrace.md)
 - [core dump 파일 분석방법 / Valgrind 메모리 누수 위치 찾기](https://github.com/AnChanUng/TIL/blob/main/linux/%EC%BD%94%EC%96%B4%EB%8D%A4%ED%94%84%20%EB%B6%84%EC%84%9D%EB%B0%A9%EB%B2%95.md)
 
-## Infra
-- [시스템과 인프라 기초](https://github.com/AnChanUng/TIL/blob/main/infra/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EA%B8%B0%EC%B4%88.md)
-- [Docker로 MySQL, PostgreSQL, MongoDB 실행 및 명령어 정리](https://cookie.tistory.com/135)
-
 ## Kubernetes
 - [k8s 명령어 & 디버깅 방법](https://github.com/AnChanUng/TIL/blob/main/k8s/pod%20%EB%94%94%EB%B2%84%EA%B9%85%20%EB%B0%A9%EB%B2%95%20%26%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md)
 - [window에서 Kubernetes 설치](https://cookie.tistory.com/141)
@@ -26,12 +22,11 @@
 - [SpringBoot에서 kafka를 활용한 SMTP 메일 전송](https://cookie.tistory.com/154)
 
 ## Server
-> 서버 관련 지식들을 모아두었습니다.
+- [시스템과 인프라 기초](https://github.com/AnChanUng/TIL/blob/main/infra/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EA%B8%B0%EC%B4%88.md)
 - [tomcat](https://github.com/AnChanUng/TIL/blob/main/server/tomcat.md)
 - [web server, WAS, Apache Tomcat](https://github.com/AnChanUng/TIL/blob/main/server/web%20server%2C%20WAS%2C%20Apache%20Tomcat.md)
 - [netty](https://github.com/AnChanUng/TIL/blob/main/server/netty.md)
 - [Nginx](https://good-abacus-b37.notion.site/Nginx-1a1c64f6820381abaa04d97d2247b9d8?pvs=4)
-- [서버 구축 방식과 가상화](https://good-abacus-b37.notion.site/1a1c64f68203812eba5ced88b5932005?pvs=4)
 
 ## AWS
 - [EC2](https://github.com/AnChanUng/TIL/blob/main/aws/EC2.md)
@@ -73,6 +68,7 @@
 - [index](https://good-abacus-b37.notion.site/index-1a1c64f68203817a9f3cfbc0f467296e?pvs=4)
 
 > RDBMS
+- [Docker로 MySQL, PostgreSQL, MongoDB 실행 및 명령어 정리](https://cookie.tistory.com/135)
 - [MariaDB 설치](https://cookie.tistory.com/131)
 - [CUBRID](https://github.com/AnChanUng/TIL/blob/main/database/CUBRID.md)
 - [PostgreSQL 설치](https://cookie.tistory.com/139)
