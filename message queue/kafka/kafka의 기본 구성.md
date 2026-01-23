@@ -1,4 +1,4 @@
-### Topoic, Consumer, Producer
+### Topic, Consumer, Producer
 <img width="924" height="321" alt="image" src="https://github.com/user-attachments/assets/401d11a2-f5aa-4f4f-969c-76c5c8a5b0e2" />
 
 - Producer : kafka에 message(data)를 전달하는 주체
