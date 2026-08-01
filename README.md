@@ -1,5 +1,7 @@
 ## TIL
 > 공부한 내용을 정리하는 repository입니다.
+> [Java](https://cookie.tistory.com/230)
+> [운영체제](https://cookie.tistory.com/234)
 
 ## Linux
 - [Linux 기술지원 작업 순서](https://github.com/AnChanUng/TIL/blob/main/linux/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EB%8F%84%EC%84%9C%20%EB%AA%A8%EC%9D%8C.md)
