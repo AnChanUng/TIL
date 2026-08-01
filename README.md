@@ -1,5 +1,4 @@
 ## TIL
-> 공부한 내용을 정리하는 repository입니다.
 > [Java](https://cookie.tistory.com/230)
 > [운영체제](https://cookie.tistory.com/234)
 
