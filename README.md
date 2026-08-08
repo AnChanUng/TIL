@@ -1,6 +1,7 @@
 ## TIL
 > [Java](https://cookie.tistory.com/230)
 > [OS](https://cookie.tistory.com/234)
+> [AWS](https://cookie.tistory.com/227)
 
 ## Linux
 - [Linux 기술지원 작업 순서](https://github.com/AnChanUng/TIL/blob/main/linux/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EB%8F%84%EC%84%9C%20%EB%AA%A8%EC%9D%8C.md)
@@ -83,6 +84,3 @@
 - [Hash](https://github.com/AnChanUng/TIL/blob/main/algorithm/hash.md)
 - [Memoization](https://github.com/AnChanUng/TIL/blob/main/algorithm/memoization.md)
 - [정렬 알고리즘의 종류](https://github.com/AnChanUng/TIL/tree/main/algorithm)
-
-## Autonomous Driving
-- [자율주행, IoT](https://cookie.tistory.com/184)
